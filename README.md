@@ -11,4 +11,4 @@ For all of these factors, average percentile is calculated for each stock.
 According to this, top 50 stocks are selected as **High-Quality Momentum** stocks.
 We take into consideration factors other than 1 year price return, as that alone can be misleading.
 
-Dataset of S&P500 (America's top 500 stocks) has been used using `IEX CLOUD LEGACY API`.
+Dataset of `S&P500` (America's top 500 stocks) has been used using `IEX CLOUD LEGACY API`.
