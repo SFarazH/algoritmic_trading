@@ -1,7 +1,7 @@
 # Quantitative Momentum Strategy
 
 This is a model that selects the top 50 stocks based on factors such as :
-\n`1 month price returns`
+<br>`1 month price returns`
 \n`3 month price returns`
 \n`6 month price returns`
 \n`1 year price returns`
