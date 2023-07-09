@@ -1,10 +1,10 @@
 # Quantitative Momentum Strategy
 
 This is a model that selects the top 50 stocks based on factors such as :
-`1 month price returns`
-`3 month price returns`
-`6 month price returns`
-`1 year price returns`
+\n`1 month price returns`
+\n`3 month price returns`
+\n`6 month price returns`
+\n`1 year price returns`
 
 For all of these factors, average percentile is calculated for each stock.
 According to this, top 50 stocks are selected as **High-Quality Momentum** stocks.
