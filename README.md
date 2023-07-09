@@ -1,5 +1,6 @@
-# Quantitative Momentum Strategy
+## Algorithmic Trading
 
+#### Quantitative Momentum Strategy
 This is a model that selects the top 50 stocks based on factors such as :
 <br>`1 month price returns`
 <br>`3 month price returns`
